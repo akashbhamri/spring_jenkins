@@ -13,7 +13,7 @@ class SpringJenkinsApplicationTests {
 	
 	 public static org.slf4j.Logger logger = LoggerFactory.getLogger(SpringJenkinsApplicationTests.class);
 	@Test
-	public  contextLoads() {
+	public  contextL() {
 		logger.info("Test case executing");
 		logger.info("Test case executing second log ");
 		Assertions.assertEquals(true, true);
